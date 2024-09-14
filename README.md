@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-gb/training/modules/authenticate-azure-deployment-pipeline-service-principals/6-exercise-authorize-service-principal-deployments?pivots=cli
